@@ -1,2 +1,4 @@
 練習中
 ワークフローを学習中
+・git add
+・git commit
